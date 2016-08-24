@@ -49,9 +49,6 @@ def read_frame(qs, fieldnames=(), index_col=None, coerce_float=False,
          You can span a relationship in the usual Django way
          by using  double underscores to specify a related field
          in another model
-         You can span a relationship in the usual Django way
-         by using  double underscores to specify a related field
-         in another model
 
     index_col: specify the field to use  for the index. If the index
                field is not in the field list it will be appended
